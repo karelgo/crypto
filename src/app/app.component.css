@@ -4,6 +4,7 @@
     float:left;
     margin-left:auto;
     /* border: 8px solid transparent */
+    color: #F0FFFF;
 }
 
 .tempRight {
@@ -12,7 +13,8 @@
     float:right;
     margin-right:auto;
     /* text-align: center; */
-    border:8px solid transparent
+    border:8px solid transparent;
+    color: #F0FFFF;
 }
 
 .center {
