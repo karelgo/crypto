@@ -1,0 +1,28 @@
+.tempLeft {
+    width:488px;
+    /* height:400px; */
+    float:left;
+    margin-left:auto;
+    /* border: 8px solid transparent */
+}
+
+.tempRight {
+    width:488px;
+    /* height:400px; */
+    float:right;
+    margin-right:auto;
+    /* text-align: center; */
+    border:8px solid transparent
+}
+
+.center {
+    padding: 160px 0;
+}
+
+p.c {
+    white-space: pre;
+}
+
+.clearScreen {
+    clear:both
+}
